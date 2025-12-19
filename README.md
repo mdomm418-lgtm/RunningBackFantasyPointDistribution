@@ -4,8 +4,7 @@ This project analyzes NFL running back performance data and creates a histogram 
 
 ## Quick Start
 If you just want to run the program without setting up a development environment, you can use the standalone executable:
-1. Navigate to the `dist/` folder.
-2. Run `RB_Stats.exe`.
+1. Download the executable from the releases page and run `RB_Stats.exe`.
 *This version has all dependencies (pandas, nflreadpy, etc.) built-in and does not require Python to be installed on your system.*
 
 ---
