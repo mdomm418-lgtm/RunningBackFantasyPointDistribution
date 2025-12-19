@@ -3,7 +3,7 @@
 This project analyzes NFL running back performance data and creates a histogram as well as a box and whisker plot to visualize said data. It is built with Python and uses the uv package manager to manage the depndencies and virtual environments.
 
 ## Quick Start
-If you just want to run the program without setting up a development environment, you can use the standalone executable simply download the executable from the releases page and run `RB_Stats.exe`.
+If you just want to run the program without setting up a development environment, you can use the standalone executable. Simply download the executable from the releases page and run `RB_Stats.exe`.
 
 *This version has all dependencies (pandas, nflreadpy, etc.) built-in and does not require Python to be installed on your system.*
 
@@ -11,7 +11,7 @@ If you just want to run the program without setting up a development environment
 
 ## Development Setup
 
-If you want to edit the code or run it from the source, follow these steps.
+If you want to edit the code or run it from the source, follow these steps:
 
 ### 1. Install uv
 This project relies on uv to manage dependencies. If you don't have it installed, run the following command in PowerShell:
